@@ -1,0 +1,3 @@
+[submodule "Start_App/material_app"]
+	path = Start_App/material_app
+	url = https://github.com/rakeshnagarajan04/Start_App.git
